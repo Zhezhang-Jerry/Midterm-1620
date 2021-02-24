@@ -69,7 +69,7 @@ p {
   background-color: #E1BB47;
 }
 
-p::first-line {
+.pp::first-line {
   color: #FED3BE;
-  font-variant: small-caps;
+  text-transform: uppercase;
 }
